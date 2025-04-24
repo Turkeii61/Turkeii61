@@ -38,7 +38,3 @@ Ich bin **Türkeii**, ein Full-Stack-Entwickler
 
 ## Links
 - 💬 [Discord](https://discord.gg/final-cl)
-
-
-
-
