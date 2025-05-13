@@ -1,40 +1,38 @@
-# Türkeii - coding with ❤️
-
-👋 Hey!
-Ich bin **Türkeii**, ein Full-Stack-Entwickler
-
-## Main Languages
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![EJS](https://img.shields.io/badge/-EJS-7A7A7A?style=for-the-badge&logo=ejs&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+# 👋 Hey, I'm Türkeii  
+### Hobby Developer • Tech Enthusiast  
 
 ---
 
-## Tools & Programme
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🖥️ Tech Stack  
+🚀 **Languages:**  
+![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=6A0DAD)  ![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=6A0DAD)  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=6A0DAD)  ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=6A0DAD)  ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=6A0DAD)  ![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=6A0DAD)  ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=6A0DAD)  
 
+📦 **Frameworks & Libraries:**  
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=6A0DAD)  ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=6A0DAD)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=6A0DAD)  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=6A0DAD)  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=6A0DAD)  ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=vercel&logoColor=6A0DAD)  ![Once UI](https://img.shields.io/badge/OnceUI-000000?style=for-the-badge&logo=react&logoColor=6A0DAD)  
 
+🗄 **Databases:**  
+![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=6A0DAD)  ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=6A0DAD)  ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=6A0DAD)  
 
-## Links
-- 💬 [Discord](https://discord.gg/final-cl)
+🌐 **Cloud & Hosting:**  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=6A0DAD)  ![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=6A0DAD)  ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=6A0DAD)  
+
+---
+
+## ⚡ Specialties  
+🎯 **Backend Development** → Node.js, Express.js, WebSockets  
+🎯 **Frontend & UI/UX** → React, Next.js, Tailwind CSS, ShadCN  
+🎯 **Database Management** → MariaDB, MongoDB, Supabase  
+🎯 **Real-time Systems** → WebSockets, Socket.io  
+🎯 **Mobile Development** *(Learning)* → React Native, Flutter  
+🎯 **3D & Animation** *(Exploring)* → Blender  
+
+---
+## 🛠️ Tools & Design  
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=6A0DAD)  ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=6A0DAD)  ![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=6A0DAD)  ![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=6A0DAD)  
+
+---
+
+## 📬 Contact  
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=6A0DAD)](https://discord.com/users/1100223732716404736)  
+
+Feel free to reach out if you want to collaborate or just chat! 🚀
