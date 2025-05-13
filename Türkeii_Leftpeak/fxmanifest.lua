@@ -1,6 +1,6 @@
 fx_version 'cerulean'
-author 'Türkeii - discord.gg/wavescripts'
-description 'Wave Leftpeak'
+author 'Türkeii - discord.gg/finalu21'
+description 'Final Leftpeak'
 game 'gta5'
 lua54 'yes'
 
