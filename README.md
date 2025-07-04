@@ -4,7 +4,7 @@
 
 - 🔧 my tech stack: `c#`, `css`, `html`, `javascript`, `typescript`, `lua`, `windows terminal`, `powershell`, `.net`, `xaml`, `express.js`, `jwt`, `npm`, `nextjs`, `node.js`, `deno`, `nodemon`, `radix ui`, `react`, `socket.io`, `scss`, `tailwindcss`, `tauri`, `vite`, `vue.js`, `mariadb`, `mongodb`, `mysql`, `postgres`, `sqlite`, `prisma`, `figma`, `github`, `postman`,
 - 🌍 You can contact me via discord. (@katana.cc)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Turkeii61&label=Profile%20views&color=0e75b6&style=flat" alt="Turkeii61" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Turkeii61&label=Profile%100views&color=0e75b6&style=flat" alt="Turkeii61" /> </p>
 
 ### 📊 GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Turkeii61&theme=radical&hide_border=false)<br/>
