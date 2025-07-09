@@ -10,4 +10,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Turkeii61&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
